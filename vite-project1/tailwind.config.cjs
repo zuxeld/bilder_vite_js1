@@ -4,6 +4,8 @@ module.exports = {
     relative: true,
     files:[
       "./index.html",
+      "./src/**/*.{html,js}",
+
       "./*.{js,ts,jsx,tsx}",
     ],
   },

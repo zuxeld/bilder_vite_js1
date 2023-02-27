@@ -12,7 +12,7 @@ module.exports = {
   theme: {
     extend: {
       boxShadow: {
-        'innerGood': '0 1px 2px rgba(0, 0, 0, 0.1)',
+        'innerGood': 'inset 0 1px 2px rgba(0, 0, 0, 0.1)',
       }
     },
   },
